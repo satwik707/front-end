@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Baloo+Tammudu');
+
+body{
+    font-family:'Anton';
+    background-image: url(pi.jpg);
+    background-size:2000px 2000px;
+    letter-spacing:2px;
+}
+body>main>section>h2
+{
+    border:1px solid #000;
+    margin=20px;
+    color:darkgoldenrod;
+    position:fixed;
+    width:100%;
+    background:rgba(255,255,255,0.9);
+    
+}
+.header::before{
+    content:"";
+    width:50px;
+    height:90px;
+    display:block;
+    background: black;
+    
+}
+.Address>input{
+    
+    padding: 10px 20px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 200px 90px #000;
+}
+.Address{
+    text-align: center;
+    
+}
+.Address>input:focus{
+    border-color: burlywood;
+    background-color: bisque;
+    color:black;
+}
+.Size{
+    text-align: center;
+    color:aliceblue;
+   
+    
+}
+h4,h3{
+    font-family: 'Baloo Tammudu';
+    color:aliceblue;
+}
+
