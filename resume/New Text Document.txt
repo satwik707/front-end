@@ -1,0 +1,2 @@
+coolors.co-space bar to generate a new palate
+jsfiddle.net

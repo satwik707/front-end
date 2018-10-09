@@ -1,0 +1,101 @@
+/*global style........................*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+header{
+    
+    background-color: #8db7d7;
+    color:#750f6b;
+    transition:all 1s ease;
+}
+header:hover,.work:hover,.edu:hover,footer:hover{
+    border: 10px solid black;
+    
+}
+.work
+{
+    background-color: #050225;
+    color: #b36919;
+    transition:all 1s ease;
+}
+.edu{
+    background-color: #aff37e;
+    color:#4e6713;
+    transition:all 1s ease;
+    
+}
+
+footer{
+    background-color: lightblue;
+    transition:all 1s ease;
+}
+a{
+    transition:all 1s ease;
+}
+a:hover{
+    text-decoration: none;
+    border: 20px solid darkblue;
+    background: darkslateblue;
+    
+}
+body{
+    font-family: 'Open Sans',sans-serif;
+    margin:0;
+    
+}
+h1 ,h2{
+    font-family: 'Caveat',sans-serif;
+    margin: 0;
+}
+h2{
+    font-size:40px;
+    margin-top: 0;
+}
+h1{
+    font-size:80px;
+}
+.content-wrap{
+    max-width:950px;
+    margin:0 auto;
+    padding:50px;
+    
+}
+footer{
+    text-align: center;
+    color:dimgray;
+}
+footer a{
+    background: darkblue;
+    padding:10px;
+    color: cyan;
+    display:inline-block;
+    text-decoration: none;
+}
+.img{
+    width:250px;
+    height:250px;
+    border-radius:50%;
+    float:left;
+    margin-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
