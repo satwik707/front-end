@@ -1,0 +1,26 @@
+.center{
+    text-align: center;
+    padding-top: 21%;
+}
+hr{
+    width: 450px;
+    background-color: aliceblue;
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1531904580788-2f94f100b86f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-size:cover;
+    background-position:center;
+    height:100%;
+    color:white;
+   
+  
+}
+html{
+    height:100%;
+    
+}
+h1{
+    color:white;
+    font-weight: 500;
+    font-size: 5em;
+}
