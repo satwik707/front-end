@@ -1,0 +1,63 @@
+.Square{
+    float:left;
+    width:30%;
+    padding-bottom: 30%;
+    background: purple;
+    margin:1.66%;
+    transition: background 0.4s;
+    border-radius:20%;
+}
+body{
+    background-color:black;
+    margin:0px;
+     font-family: cursive;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.Container{
+    max-width: 600px;
+    margin:0 auto;
+}
+h1{
+    color:white;
+    margin:0px;
+    text-align: center;
+    
+    background-color: steelblue;
+    
+    
+}
+button:hover{
+    background-color: steelblue;
+     color:white;
+    
+}
+.message{
+    width:200px;
+    display:inline-block;
+}
+#rgb{
+    font-size: 150%;
+}
+
+.stripe{
+    background-color: white;
+    text-align: center;
+    height:30px; 
+}
+.selected{
+    background-color: steelblue;
+     color:white;
+}
+button{
+    border:none;
+      font-family: cursive;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    height:100%;
+    color:steelblue;
+    background-color:white;
+    transition: all .5s;
+    outline: none;
+    
+}
